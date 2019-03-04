@@ -1,4 +1,3 @@
-
 function klik(){
     var input = document.getElementById('kroner').value;
     if(isNaN(input)){
